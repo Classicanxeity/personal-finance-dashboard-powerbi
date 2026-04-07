@@ -22,4 +22,3 @@ across 12 months built as part of US CMA journey.
 - Festive months (Oct + Dec) showed 40% higher spending
 - Savings rate improved after July salary increment
 - Investment rate grew from 18% to 26% by December
-
