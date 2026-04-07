@@ -1,4 +1,4 @@
-# Personal Finance Dashboard — FY 2024
+# Personal Finance Dashboard 
 
 ## Overview
 Advanced Personal Finance Dashboard analyzing 266 transactions 
